@@ -1,0 +1,21 @@
+{
+  "short_name": "Impulso Kits",
+  "name": "Impulso Kits - Camisetas de Fútbol",
+  "icons": [
+    {
+      "src": "logotipo redimensionado-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logotipo redimensionado-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}

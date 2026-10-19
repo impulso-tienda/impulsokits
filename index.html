@@ -110,4 +110,13 @@ importCatalog=async function(event){const file=event.target.files[0];if(!file)re
 // El stock es orientativo: no se sincroniza entre compradores hasta incorporar backend.
 refreshAdminSelect();render();
 document.addEventListener('keydown',e=>{if(e.key==='Escape'){closeAll();const m=document.getElementById('mobilemenu');if(m)m.classList.remove('on')}});
-</script><section class="modal" id="sizeModal" style="padding:28px;max-width:560px"><div class="row"><h2>GUÍA DE TALLES</h2><button class="close" onclick="closeAll()">×</button></div><p class="muted">Tabla orientativa. Las medidas pueden variar según el fabricante; confirmalas antes de comprar.</p><table style="width:100%;border-collapse:collapse;line-height:2.6"><tr><th>Talle</th><th>Pecho (cm)*</th></tr><tr><td>S</td><td>88–96</td></tr><tr><td>M</td><td>96–104</td></tr><tr><td>L</td><td>104–112</td></tr><tr><td>XL</td><td>112–120</td></tr><tr><td>XXL</td><td>120–128</td></tr></table><small class="muted">*Contorno corporal orientativo, no medida de la prenda. Para chándales y versión jugador, consultá antes de pedir.</small></section></body></html>
+</script><section class="modal" id="sizeModal" style="padding:28px;max-width:560px"><div class="row"><h2>GUÍA DE TALLES</h2><button class="close" onclick="closeAll()">×</button></div><p class="muted">Tabla orientativa. Las medidas pueden variar según el fabricante; confirmalas antes de comprar.</p><table style="width:100%;border-collapse:collapse;line-height:2.6"><tr><th>Talle</th><th>Pecho (cm)*</th></tr><tr><td>S</td><td>88–96</td></tr><tr><td>M</td><td>96–104</td></tr><tr><td>L</td><td>104–112</td></tr><tr><td>XL</td><td>112–120</td></tr><tr><td>XXL</td><td>120–128</td></tr></table><small class="muted">*Contorno corporal orientativo, no medida de la prenda. Para chándales y versión jugador, consultá antes de pedir.</small></section><script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js')
+        .then(reg => console.log('¡App lista para ser instalada!', reg))
+        .catch(err => console.log('Fallo al registrar la app', err));
+    });
+  }
+</script>
+</body></html>

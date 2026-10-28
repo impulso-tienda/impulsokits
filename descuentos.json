@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "coupons": [
+    {
+      "code": "FROILAN33",
+      "type": "percent",
+      "value": 33,
+      "min": 30,
+      "expires": "2100-01-01",
+      "active": true
+    },
+    {
+      "code": "VALEN33",
+      "type": "percent",
+      "value": 33,
+      "min": 30,
+      "expires": "2100-01-01",
+      "active": true
+    },
+    {
+      "code": "MARCO33",
+      "type": "percent",
+      "value": 33,
+      "min": 30,
+      "expires": "2100-01-01",
+      "active": true
+    },
+    {
+      "code": "SERGIOBARBER20",
+      "type": "percent",
+      "value": 20,
+      "min": 40,
+      "expires": "2027-07-01",
+      "active": true
+    }
+  ]
+}

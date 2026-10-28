@@ -3171,5 +3171,208 @@
       "fotos/243-2.jpg",
       "fotos/243-3.jpg"
     ]
+  },
+  {
+    "id": 244,
+    "team": "Real Madrid",
+    "league": "LaLiga",
+    "kind": "Local",
+    "version": "Jugador",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/244-1.png",
+      "fotos/244-2.png",
+      "fotos/244-3.png"
+    ],
+    "image": "fotos/244-1.png"
+  },
+  {
+    "id": 245,
+    "team": "Real Madrid",
+    "league": "LaLiga",
+    "kind": "Visitante",
+    "version": "Jugador",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/245-1.png",
+      "fotos/245-2.png",
+      "fotos/245-3.png"
+    ],
+    "image": "fotos/245-1.png"
+  },
+  {
+    "id": 246,
+    "team": "Real Madrid",
+    "league": "LaLiga",
+    "kind": "Visitante",
+    "version": "Fan",
+    "season": "2026/27",
+    "price": 24.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/246-1.png",
+      "fotos/246-2.png"
+    ],
+    "image": "fotos/246-1.png"
+  },
+  {
+    "id": 247,
+    "team": "Manchester City",
+    "league": "Premier League",
+    "kind": "Local",
+    "version": "Jugador",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/247-1.png",
+      "fotos/247-2.png",
+      "fotos/247-3.png"
+    ],
+    "image": "fotos/247-1.png"
+  },
+  {
+    "id": 248,
+    "team": "Manchester City",
+    "league": "Premier League",
+    "kind": "Retro",
+    "version": "Fan",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/248-1.png",
+      "fotos/248-2.png",
+      "fotos/248-3.png"
+    ],
+    "image": "fotos/248-1.png"
+  },
+  {
+    "id": 249,
+    "team": "Bayern Múnich",
+    "league": "Bundesliga",
+    "kind": "Local",
+    "version": "Jugador",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/249-1.png",
+      "fotos/249-2.png",
+      "fotos/249-3.png"
+    ],
+    "image": "fotos/249-1.png"
+  },
+  {
+    "id": 250,
+    "team": "Bayern Múnich",
+    "league": "Bundesliga",
+    "kind": "Visitante",
+    "version": "Jugador",
+    "season": "2026/27",
+    "price": 24.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/250-1.png",
+      "fotos/250-2.png",
+      "fotos/250-3.png"
+    ],
+    "image": "fotos/250-1.png"
+  },
+  {
+    "id": 251,
+    "team": "Bayern Múnich",
+    "league": "Bundesliga",
+    "kind": "Visitante",
+    "version": "Fan",
+    "season": "2026/27",
+    "price": 24.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/251-1.png",
+      "fotos/251-2.png",
+      "fotos/251-3.png"
+    ],
+    "image": "fotos/251-1.png"
+  },
+  {
+    "id": 252,
+    "team": "Bayern Múnich",
+    "league": "Bundesliga",
+    "kind": "Retro",
+    "version": "",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/252-1.png",
+      "fotos/252-2.png",
+      "fotos/252-3.png"
+    ],
+    "image": "fotos/252-1.png"
+  },
+  {
+    "id": 253,
+    "team": "Bayern Múnich",
+    "league": "Bundesliga",
+    "kind": "Retro",
+    "version": "",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/253-1.png",
+      "fotos/253-2.png",
+      "fotos/253-3.png"
+    ],
+    "image": "fotos/253-1.png"
+  },
+  {
+    "id": 254,
+    "team": "Bayern Múnich",
+    "league": "Bundesliga",
+    "kind": "Chándal",
+    "version": "",
+    "season": "2026/27",
+    "price": 39.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/254-1.png",
+      "fotos/254-2.png",
+      "fotos/254-3.png"
+    ],
+    "image": "fotos/254-1.png"
+  },
+  {
+    "id": 255,
+    "team": "Liverpool",
+    "league": "Premier League",
+    "kind": "Local",
+    "version": "Jugador",
+    "season": "2026/27",
+    "price": 29.99,
+    "stock": 20,
+    "discount": 0,
+    "images": [
+      "fotos/255-1.png",
+      "fotos/255-2.png",
+      "fotos/255-3.png"
+    ],
+    "image": "fotos/255-1.png"
   }
 ]
